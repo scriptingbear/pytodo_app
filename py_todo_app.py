@@ -141,10 +141,7 @@ class ToDo:
                           
 class Manager:
         todo_list = []
-        database_file = "C:\\Users\\win2m\\Documents\\Programming Documentation\\" \
-                        "Python Documentation\\Udemy\Python OOP - Python Object Oriented Programming For Beginners\\" \
-                        "Object OrientedAnalysis And Design\\" \
-                        "todo_database.txt"
+        database_file = "C:\...\\todo_database.txt"
 
 
         menu = {}
